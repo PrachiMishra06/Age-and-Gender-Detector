@@ -33,3 +33,13 @@ Age and Gender detector using Machine learning
 8.Click on detect button
 
 9.View results
+
+
+##Sample Outputs:
+
+Sample Output 1:
+![Sample Output 1](https://github.com/PrachiMishra06/Age-and-Gender-Detector/blob/main/sample%20output%20-%201.png)
+
+
+Sample Output 2:
+![Sample Output 2](https://github.com/PrachiMishra06/Age-and-Gender-Detector/blob/main/sample%20output%20-%202.png)
