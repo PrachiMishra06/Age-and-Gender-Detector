@@ -40,6 +40,14 @@ Age and Gender detector using Machine learning
 Sample Output 1:
 ![Sample Output 1](https://github.com/PrachiMishra06/Age-and-Gender-Detector/blob/main/sample%20output%20-%201.png)
 
-
 Sample Output 2:
 ![Sample Output 2](https://github.com/PrachiMishra06/Age-and-Gender-Detector/blob/main/sample%20output%20-%202.png)
+
+Sample Output 3:
+![Sample Output 3](https://github.com/PrachiMishra06/Age-and-Gender-Detector/blob/main/sample%20output%20-%203.png)
+
+Sample Output 4:
+![Sample Output 4](https://github.com/PrachiMishra06/Age-and-Gender-Detector/blob/main/sample%20output%20-%204.png)
+
+Sample Output 5:
+![Sample Output 5](https://github.com/PrachiMishra06/Age-and-Gender-Detector/blob/main/sample%20output%20-%205.png)
